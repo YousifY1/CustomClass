@@ -44,7 +44,7 @@ public class Batman {
       
       }
       
-   public String category() {
+   public String category(int location) {
       // States he is a hero
       
       return category;
