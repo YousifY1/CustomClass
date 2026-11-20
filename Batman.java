@@ -32,17 +32,27 @@ public class Batman {
    public static void name() {
       // States he is Batman
       
+      }
+      
    public static void gadgets() {
       // States his gadets
+      
+      }
       
    public static void pharse() {
       // States his phrase
       
+      }
+      
    public static void category() {
       // States he is a hero
       
+      }
+      
    public static void detective() {
       // States he is a detective
+      
+      }
 
 
    }
