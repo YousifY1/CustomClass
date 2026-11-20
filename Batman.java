@@ -12,7 +12,7 @@ public class Batman {
    public Batman() {
       name = "Batman";  
       category = "Hero";
-      favoritePhrase = "";
+      favoritePhrase = "I'm Vengence";
       age = 27;
       height = 6.1;
       detective = true;
@@ -29,8 +29,20 @@ public class Batman {
    }
    
    // methods
-   public void gotham() {
-      System.out.println("Hero name: " + name + " Gadgets: " + gadgets);
+   public static void name() {
+      // States he is Batman
+      
+   public static void gadgets() {
+      // States his gadets
+      
+   public static void pharse() {
+      // States his phrase
+      
+   public static void category() {
+      // States he is a hero
+      
+   public static void detective() {
+      // States he is a detective
 
 
    }
