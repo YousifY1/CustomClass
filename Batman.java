@@ -18,6 +18,11 @@ public class Batman {
       detective = true;
       gadgets = 10;
    }
+   
+   public Batman(String name, String category) {
+      this.name = "The world's greatest detective";
+      this.category = "detective";
+   }
    public Batman(String name, String category, String favoritePhrase, int age, double height, boolean detective, int gadgets) {
       this.name = name;
       this.category = category;
