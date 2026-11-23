@@ -34,8 +34,9 @@ public class Batman {
    }
    
    // methods
-   public static void name() {
+   public void name() {
       // States he is Batman
+      System.out.println("Batman states " + favoritePhrase);
       
       }
       
